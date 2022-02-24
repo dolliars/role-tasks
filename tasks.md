@@ -13,4 +13,6 @@
 | Frontend web dev | ecommerce   | connect to an API and use what it returns                      |
 | Frontend web dev | ecommerce   | maps!                                                          |
 | Frontend web dev | ecommerce   | implement dark patterns (or not. you can say no, but you know) |
+| Frontend web dev | ecommerce   | create cart flyout                                             |
+| Frontend web dev | ecommerce   | so many devices, so little time. testing: gl;hf                |
 | Frontend web dev | ecommerce   | wrote some regex once. it was the best day                     |
